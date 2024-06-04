@@ -1,12 +1,14 @@
-# Contactship AI
+# Contactship AI challenge
 
 <div align="center">
+  
 <span>&nbsp;✦&nbsp;</span>
 <a href="https://contactship.facupm.dev">Live website</a>
 <span>&nbsp;✦&nbsp;</span>
-</div>
 
 ![App Screenshot](/public/screenshot.png)
+</div>
+
 
 This is a challenge for a frontend developer position at contactship.ai
 
